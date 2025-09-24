@@ -1,0 +1,16 @@
+{
+  "name": "echomoods-backend",
+  "version": "1.0.0",
+  "description": "Backend for EchoMoods Spotify app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1"
+  }
+}
