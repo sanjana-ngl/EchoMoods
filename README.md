@@ -6,6 +6,7 @@ It uses Google Gemini to interpret natural-language mood descriptions and Spotif
 
 Screenshots
 
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/38e21a71-1134-4126-ae61-8469fb8d80e3" />
 <img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/f45cab13-dc71-4c88-8976-e92f4e5cd5a5" />
 <img width="1914" height="914" alt="image" src="https://github.com/user-attachments/assets/bc2335c3-eb7c-47aa-929c-4e9294b78bc9" />
 <img width="1916" height="928" alt="image" src="https://github.com/user-attachments/assets/0d3c3074-d09b-4292-944a-f65775dd7ded" />
@@ -66,8 +67,8 @@ Album art
 
 Setup Instructions
 1. Clone Repository
-git clone 
-cd 
+git clone https://github.com/sanjana-ngl/EchoMoods
+cd website
 
 2. Install Dependencies
 # Install frontend
